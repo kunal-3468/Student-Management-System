@@ -1,0 +1,29 @@
+body{ background-color: olive;
+}
+*{ margin: 0;
+    padding: 0;
+ }
+ #wel{ height: 30%;
+       width: 100%;
+       background-color: black;
+       color: white;
+ }
+#an{ margin-left:1100px;
+     margin-top:80px;				  
+ }
+#h{  font-size: 50px;
+}
+a{ color: white;
+}
+#fom{ margin-top:100px;
+}
+#tab{ border: 2px solid black;
+     height: 300px;
+     width: 500px;
+     padding:20px;
+}		
+#sub{ margin-left:100px;
+}
+#st{ margin:50px;
+}
+#r1{ margin-bottom: 5px;}
